@@ -1,0 +1,19 @@
+make 1
+push 0 1
+push 33 1
+push 100 1
+push 108 1
+push 114 1
+push 111 1
+push 119 1
+push 32 1
+push 44 1
+push 111 1
+push 108 1
+push 108 1
+push 101 1
+push 72 1
+while 1
+  letter 1
+  pop 1
+end
